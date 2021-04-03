@@ -168,3 +168,8 @@ position: relative;
 .client-item{
 padding: 34px;
 }
+
+#contact{
+    position: relative;
+    top: 250px;
+}
